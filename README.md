@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🪄 About Me:
 
-<!--
-**hydroxzs/hydroxzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a `Developer` with a focus on creating advanced `Discord Bots`.
 
-Here are some ideas to get you started:
+# 💻 Discord Bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Building advanced** `Discord bots`, **including:**
+
+- **Functions**
+
+- **Welcome**: New members with customizable messages.
+- **Ticket**: Ticket panel full customizable.
+- **Logs**: Capture and log messages, voice interactions, role changes, channel updates, and more.
+- **Admin & Staff Commands**: Commands only for the staff for moderate the discord.
+- **Twitch Alerts**: Alerts for Twitch Live customizable.
+- **Anti-Crash System**: Anti-Crash to never let the bot go off.
+
+*And much more*
+
+# 🛠️ Language i use:
+
+**Javascript**
+
+@hydroxzs on `discord`
