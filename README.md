@@ -1,6 +1,6 @@
 # 🪄 About Me:
 
-Hi there! I'm a `Developer` with a focus on creating advanced `Discord Bots`.
+Hi there! I'm a `Developer` and i creating advanced `Discord Bots`.
 
 # 💻 Discord Bots
 
