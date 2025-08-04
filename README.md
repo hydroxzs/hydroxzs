@@ -20,5 +20,6 @@ Hi there! I'm a `Developer` and i creating advanced `Discord Bots`.
 # 🛠️ Language i use:
 
 **Javascript**
+**Python**
 
 @hydroxzs on `discord`
